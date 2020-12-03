@@ -1,8 +1,9 @@
 # hello-world
-First repository to begin the mastery of powerful programming languages and tool development.
+Over time my programming interests have evolved. My programming journey started with MATLAB. I started learning python on the side of my primary career, and have sparked an interest in full stack web development.
 
-I'm a mechanical engineer by training with background in liquid-methane liquid oxygen propulsion systems, propulsion acoustic dampening mechanisms, flight telemetry analysis, stratospheric thermal management and design, and impact attenuation device design for stratospheric high altitude balloon vehicles. Technological advancements fascinate me, and I've worked hard to get to where I am today. I have much to learn in my field, but wish to continue to build my skillset. The field of engineering continues to push towards electrical and system integration focused design. More and more software dependent systems are being developed, and therefore I must adapt. In today's age high school kids are winning robotics competitions, applying computer logic to help solve real world problems, and developing apps. I want to be a part of the modern era and not get left behind. This is foreward thinking. 
+I'm a mechanical engineer by training with background in propulsion, stratospheric ballooning, and satellite thermal & structural design. Through my years in the space science and engineering field, I've come to the conclusion that satellite design can be a slow and sometimes painstaking process. The paperwork alone can become repetative and lacks excitement. My goal is to improve my programming skills to develop tools used to improve and automate the fabrication of complex satellite instruments. The goal is to create these sets of tools that work intuitively together, with a stimulating and automated experience. 
 
-I wish to contribute to this pool of knowledge that is github, as well as learn a great deal. I feel this is going to be a rewarding experience, and I am very excited to be a part of this community.
+This is going to be a rewarding experience, and I am very excited to be a part of this community. 
 
 - J. Candelaria
+Amphitrite Technologies
